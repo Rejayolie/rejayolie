@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm Rejoice Olie and I began my journey in Tech during the first pandemic as a Data Scientist with Python. My goal is to apply Data Science solutions to Stocks and Cryptocurrency.
+🌱I am currently  learning from Udacity and I am enrolled in the Nanodegree programme "AI for Trading", where I Artificial Intelligence technologies to taking trades in the market.
+🔭I am currently working on Alpha Research and Factor Modelling as my fourth project and will keep updates as I progress.
