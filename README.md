@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**Welcome to my github where I build in public, make mistakes, curate ideas, and 'star' my favorite repos!
+*Welcome to my github where I build in public, make mistakes, curate ideas, and 'star' my favorite repos!
 
 
  - 🔭 I’m currently working on data analyst/data science projects
